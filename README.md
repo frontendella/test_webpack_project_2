@@ -1,2 +1,2 @@
-# test_webpack_project_2
- Test project #2 built with webpack
+# webpack_test_project_2
+ this is test project #2 webpack
